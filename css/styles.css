@@ -1,0 +1,72 @@
+body {
+    background-color: #262626;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div {
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 82px;
+}
+
+p {
+    color: darkgrey;
+    font-size: 41px;
+}
+
+.github-button {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 22px;
+    color: white;
+    padding: 18px 32px;
+    cursor: pointer;
+    background-color: #262626;
+    border: 2px solid #cc00cc;
+    border-radius: 50px;
+    transition: all 0.2s;
+}
+.github-button:hover { background-color: #cc00cc; }
+
+.email-button {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 22px;
+    color: white;
+    padding: 18px 32px;
+    cursor: pointer;
+    background-color: #262626;
+    border: 2px solid grey;
+    border-radius: 50px;
+    transition: all 0.2s;
+}
+.email-button:hover { background-color: grey; }
+
+.github-div {
+    display: inline-block;
+    position: absolute;
+    top: 100%;
+    left: 10%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.email-div {
+    display: inline-block;
+    position: absolute;
+    top: 100%;
+    left: 34%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+}
+.reddit-div {
+    display: inline-block;
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
