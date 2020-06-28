@@ -1,1 +1,57 @@
 
+==================================================================
+https://keybase.io/ashiix
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ashiix.dev
+  * I am ashiix (https://keybase.io/ashiix) on keybase.
+  * I have a public key ASC6odm8iYmEFluMlkGMtMTrqVnbaisr8inTEjWzfweDSwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120baa1d9bc898984165b8c96418cb4c4eba959db6a2b2bf229d31235b37f07834b0a",
+      "host": "keybase.io",
+      "kid": "0120baa1d9bc898984165b8c96418cb4c4eba959db6a2b2bf229d31235b37f07834b0a",
+      "uid": "bff5f6bf5bd4e28f3e726bde2ad94619",
+      "username": "ashiix"
+    },
+    "merkle_root": {
+      "ctime": 1593369491,
+      "hash": "3e4b8ee32d66911579c00fbf2ce31e085ab343d3b2643bf229d789734b54cbdd35f4e2d54cba0a206729354bda52c31ca76b04a9e2ac69257b4f325a2f3b6981",
+      "hash_meta": "1f01a60c3d3b8a73ae260eb5710df80aef616c2d99883037678116587dd6c842",
+      "seqno": 16802320
+    },
+    "service": {
+      "entropy": "gBwcu1GPVfFonHCBKuFvmuEJ",
+      "hostname": "ashiix.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1593369520,
+  "expire_in": 504576000,
+  "prev": "275e222778a569c7ef544c671b97869967e8c9d2726d4ba6b449bbdaf47d256d",
+  "seqno": 110,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguqHZvImJhBZbjJZBjLTE66lZ22orK/Ip0xI1s38Hg0sKp3BheWxvYWTESpcCbsQgJ14iJ3ilacfvVExnG5eGmWfoydJybUumtEm72vR9JW3EIL3vapfqHLREbaVCPoCC0KXxiXer446k0yyC3VjhA96GAgHCo3NpZ8RA2dcMbwshtcwSmswa/B5MbVUoxsNMRzBiY35C8764hPtX/wzy2LIm9P/gJ37So8wIqmAO5DvjH5Aee1bB4ErnCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILRvmf0f7wiGf/GhtQDoVhwDcd08F+ZAsRu76aDDt4Olo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ashiix
+
+==================================================================
